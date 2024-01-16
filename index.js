@@ -1,4 +1,3 @@
-
 function userProfile() {
- window.location.href = "user.html"
+  window.location.href = "user.html";
 }
