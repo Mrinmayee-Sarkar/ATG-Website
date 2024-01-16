@@ -775,10 +775,9 @@ text-align: center;
     /*****************Main Section****************************/
     
     .main{
-        background: url(./Images/Rectangle\ 2.png), lightgray 50% / cover no-repeat;
-    height: 440px;
+        background: url(./Images/Rectangle\ 2\ -\ Copy.png), lightgray 50% / cover no-repeat;
+    height: 300px;
     flex-shrink: 0;
-    background-size: cover;
     
     }
     
@@ -1214,4 +1213,5 @@ text-align: center;
     
     .location p{
         display: none; 
+}
 }
